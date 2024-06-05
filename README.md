@@ -69,7 +69,7 @@ To set up and run this project locally, follow these steps.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/twitter-backend.git
+   git clone https://github.com/sankytech12/tweetr-backend.git
    cd twitter-backend
    ```
 2. Install dependencies:
